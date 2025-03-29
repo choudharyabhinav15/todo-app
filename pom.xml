@@ -11,7 +11,7 @@
     <artifactId>todo-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>todo-app</name>
-    <description>Todo application</description>
+    <description>Todo application to track the todo list</description>
     <scm>
         <connection>scm:git:https://github.com/choudharyabhinav15/todo-app.git</connection>
         <developerConnection>scm:git:git@github.com:choudharyabhinav15/todo-app.git</developerConnection>
