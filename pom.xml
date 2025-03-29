@@ -9,13 +9,13 @@
     </parent>
     <groupId>com.todo.app</groupId>
     <artifactId>todo-app</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>todo-app</name>
     <description>Todo application to track the todo list</description>
     <scm>
         <connection>scm:git:https://github.com/choudharyabhinav15/todo-app.git</connection>
         <developerConnection>scm:git:https://github.com/choudharyabhinav15/todo-app.git</developerConnection>
-        <tag>0.0.1</tag>
+        <tag>todo-app-0.0.2</tag>
         <url>https://github.com/choudharyabhinav15/todo-app</url>
     </scm>
     <properties>
