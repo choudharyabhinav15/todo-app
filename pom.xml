@@ -12,13 +12,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>todo-app</name>
     <description>Todo application</description>
-    <url />
-    <licenses>
-        <license />
-    </licenses>
-    <developers>
-        <developer />
-    </developers>
     <scm>
         <connection>scm:git:https://github.com/choudharyabhinav15/todo-app.git</connection>
         <developerConnection>scm:git:git@github.com:choudharyabhinav15/todo-app.git</developerConnection>
