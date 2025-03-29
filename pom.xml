@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.todo.app</groupId>
     <artifactId>todo-app</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>todo-app</name>
     <description>Todo application</description>
     <scm>
